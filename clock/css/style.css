@@ -1,0 +1,40 @@
+#h{
+	position: absolute;
+	top: 23%;
+	left: 26%;
+	width: 1%;
+	height: 15.2%;
+	background-color: #2b60de;
+	border-radius: 10px;
+	transform-origin: bottom;
+	margin: 55px 275px;
+}
+#min{
+	position: absolute;
+	top: 20%;
+	left: 24.7%;
+	width: .75%;
+	height:20%;
+	background-color: #b041ff ;
+	border-radius: 5px;
+	transform-origin: bottom;
+	margin: 50px 275px;
+}
+#sec{
+	position: absolute;
+	top: 19.4%;
+	left: 25.6%;
+	width: .25%;
+	height: 21.4%;
+	background-color: white;
+	border-radius: 10px;
+	transform-origin: bottom;
+	margin: 50px 275px;
+}
+img{
+	height: 30vw;
+	margin: 100px 410px;
+}
+body{
+	background-color: black;
+}
